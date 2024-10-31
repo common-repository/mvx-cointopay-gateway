@@ -1,0 +1,113 @@
+# Copyright (C) 2021 WC Marketplace
+# This file is distributed under the same license as the MVX Vendor Membership package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MVX Vendor Membership 2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/dualcube/dc-woocommerce-multi-"
+"vendor/issues\n"
+"POT-Creation-Date: 2022-10-19 05:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WC Marketplace<contact@multivendorx.com>\n"
+"Language-Team: WC Marketplace <contact@multivendorx.com>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: includes/mvx-cointopay-gateway-core-functions.php:18
+#, php-format
+msgid ""
+"%sMVX Cointopay Gateway is inactive. %s Please deactivate others "
+"cointopay plugin to bypass conflict"
+msgstr ""
+
+#: includes/mvx-cointopay-gateway-core-functions.php:8
+#, php-format
+msgid ""
+"%sMVX Cointopay Gateway is inactive.%s The %sWooCommerce plugin%s "
+"must be active for the MVX Cointopay Gateway to work. Please "
+"%sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway-admin.php:55
+msgid "Merchant Id"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway.php:32
+msgid ""
+"Connect to vendors cointopay account and make hassle-free transfers as scheduled."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://multivendorx.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://multivendorx.com/addons/"
+msgstr ""
+
+#: classes/class-mvx-gateway-cointopay.php:60
+msgid "Invalid payment method"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway.php:45
+#: classes/class-mvx-cointopay-gateway.php:46
+msgid "Merchant Id"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway.php:52
+#: classes/class-mvx-cointopay-gateway.php:53
+msgid "Security Code"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"MultiVendorX Cointopay Split Checkout Gateway is a payment gateway for pay "
+"with woocommerce as well as split payment with MVX multivendor marketplace."
+msgstr ""
+
+#. Name of the plugin
+msgid "MVX Cointopay Gateway"
+msgstr ""
+
+#: classes/class-mvx-gateway-cointopay.php:47
+msgid "New transaction has been initiated"
+msgstr ""
+
+#: classes/class-mvx-gateway-cointopay.php:66
+msgid "Please update your Cointopay Account information to receive commission"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway-admin.php:43
+#: classes/class-mvx-cointopay-gateway-admin.php:49
+#: classes/class-mvx-cointopay-gateway-admin.php:67
+#: classes/class-mvx-cointopay-gateway.php:30
+msgid "Cointopay"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway-admin.php:21
+#: classes/class-mvx-cointopay-gateway-admin.php:23
+msgid "Cointopay Merchant Id"
+msgstr ""
+
+#: classes/class-mvx-gateway-cointopay.php:63
+msgid ""
+"Cointopay payout setting is not configured properly. Please contact site "
+"administrator"
+msgstr ""
+
+#: classes/class-mvx-cointopay-gateway-admin.php:33
+msgid "Cointopay Route Merchant Id"
+msgstr ""
+
+#: classes/class-mvx-gateway-cointopay.php:115
+#, php-format
+msgid "Total commissions earned from %1$s as at %2$s on %3$s"
+msgstr ""
+
+#. Author of the plugin
+msgid "WC Marketplace"
+msgstr ""
